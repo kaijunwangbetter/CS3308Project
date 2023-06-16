@@ -1,0 +1,399 @@
+06-16 08:07 root         INFO     Loading starting molecules from d:\桌面\Project for ML\retro_star\retro_star/Multi-Step task/starting_mols.pkl/starting_mols.pkl
+06-16 08:07 root         INFO     23081629 starting molecules loaded
+06-16 08:07 root         INFO     Templates: d:\桌面\Project for ML\retro_star\retro_star/one_step_model/template_rules_1.dat
+06-16 08:07 root         INFO     Loading trained mlp model from d:\桌面\Project for ML\retro_star\retro_star/one_step_model/saved_rollout_state_1_2048.ckpt
+06-16 08:07 root         INFO     Initializing value model: latent_dim=128
+06-16 08:07 root         INFO     Loading value nn from d:\桌面\Project for ML\retro_star\retro_star/saved_models/best_epoch_final_4.pt
+06-16 08:08 root         INFO     Final search status | success value | iter: 6.688617534041766 | inf | 100
+06-16 08:08 root         INFO     Synthesis path for C[C@H](c1ccccc1)N1C[C@]2(C(=O)OC(C)(C)C)C=CC[C@@H]2C1=S not found. Please try increasing the number of iterations.
+06-16 08:08 root         INFO     Final search status | success value | iter: 10.113946153277663 | inf | 100
+06-16 08:08 root         INFO     Synthesis path for CCCC[C@@H](C(=O)N1CCC[C@H]1C(=O)O)[C@@H](F)C(=O)OC not found. Please try increasing the number of iterations.
+06-16 08:08 root         INFO     Expansion fails on Cl[Sb](Cl)(Cl)(Cl)Cl!
+06-16 08:08 root         INFO     Synthesis route found!
+06-16 08:08 root         INFO     Final search status | success value | iter: 5.9449877290200135 | 12.447833009823668 | 41
+06-16 08:08 root         INFO     Synthesis route found!
+06-16 08:08 root         INFO     Final search status | success value | iter: 7.009890618913836 | 6.9058595161384835 | 7
+06-16 08:09 root         INFO     Final search status | success value | iter: 11.527810925207682 | inf | 100
+06-16 08:09 root         INFO     Synthesis path for NC1=N[C@@]2(c3ccc(F)cc3F)CO[C@@H](c3nnco3)C[C@H]2CS1 not found. Please try increasing the number of iterations.
+06-16 08:09 root         INFO     Synthesis route found!
+06-16 08:09 root         INFO     Final search status | success value | iter: 6.489202117403455 | 11.454013309139036 | 44
+06-16 08:09 root         INFO     Final search status | success value | iter: 9.451795091152627 | inf | 100
+06-16 08:09 root         INFO     Synthesis path for COCCCc1cc(CN(C(=O)[C@H]2CN(C(=O)OC(C)(C)C)CC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)cc(OCc2ccc(C#N)cc2)c1 not found. Please try increasing the number of iterations.
+06-16 08:10 root         INFO     Final search status | success value | iter: 8.972264294554975 | inf | 100
+06-16 08:10 root         INFO     Synthesis path for O=C(OCc1ccccc1)N1CC[C@H]2CCCN(CCc3ccccc3)C[C@H]21 not found. Please try increasing the number of iterations.
+06-16 08:10 root         INFO     Synthesis route found!
+06-16 08:10 root         INFO     Final search status | success value | iter: 8.057601319570704 | 10.430615109568437 | 45
+06-16 08:10 root         INFO     Final search status | success value | iter: 6.493344355691562 | inf | 100
+06-16 08:10 root         INFO     Synthesis path for CCc1nc(C)c(C(=O)Nc2ccc(-c3ccc(C45CCC(CC(=O)OC)(CC4)OC5)cc3)cc2)o1 not found. Please try increasing the number of iterations.
+06-16 08:11 root         INFO     Synthesis route found!
+06-16 08:11 root         INFO     Final search status | success value | iter: 5.2121731865522705 | 4.920673097937375 | 10
+06-16 08:11 root         INFO     Synthesis route found!
+06-16 08:11 root         INFO     Final search status | success value | iter: 4.028335344120943 | 3.807625207545601 | 13
+06-16 08:11 root         INFO     Synthesis route found!
+06-16 08:11 root         INFO     Final search status | success value | iter: 1.1763877802161535 | 0.7581509252851422 | 4
+06-16 08:11 root         INFO     Final search status | success value | iter: 11.397825145162557 | inf | 100
+06-16 08:11 root         INFO     Synthesis path for C/N=C(\C)C1=C(O)C=C2Oc3c(C(=O)NCc4c(C)ccc5ccccc45)c(OC)cc(O)c3[C@]2(C)C1=O not found. Please try increasing the number of iterations.
+06-16 08:11 root         INFO     Synthesis route found!
+06-16 08:11 root         INFO     Final search status | success value | iter: 7.9616520637645465 | 8.009364707687718 | 90
+06-16 08:11 root         INFO     Synthesis route found!
+06-16 08:11 root         INFO     Final search status | success value | iter: 1.5482135024685109 | 0.47486869347534716 | 4
+06-16 08:11 root         INFO     Synthesis route found!
+06-16 08:11 root         INFO     Final search status | success value | iter: 6.190956918929951 | 9.132358158126557 | 50
+06-16 08:11 root         INFO     Expansion fails on CC1=CC=CC(C)(C(F)(F)F)C1!
+06-16 08:11 root         INFO     Synthesis route found!
+06-16 08:11 root         INFO     Final search status | success value | iter: 2.58364766919643 | 0.7421950849355363 | 8
+06-16 08:12 root         INFO     Synthesis route found!
+06-16 08:12 root         INFO     Final search status | success value | iter: 7.366950316578583 | 12.967564053126027 | 41
+06-16 08:12 root         INFO     Final search status | success value | iter: 6.5349971956990025 | inf | 100
+06-16 08:12 root         INFO     Synthesis path for CC(C)(C)OC(=O)NC1(C2CCc3cc(Sc4cccc(OCc5ccccc5)c4)ccc3C2)COC(C)(C)OC1 not found. Please try increasing the number of iterations.
+06-16 08:12 root         INFO     Synthesis route found!
+06-16 08:12 root         INFO     Final search status | success value | iter: 5.226162635352319 | 5.197899726115848 | 8
+06-16 08:13 root         INFO     Final search status | success value | iter: 7.893716867173328 | inf | 100
+06-16 08:13 root         INFO     Synthesis path for COCCCc1cc(CN(C(=O)[C@H]2CNCC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)cc(OCCOC)c1 not found. Please try increasing the number of iterations.
+06-16 08:13 root         INFO     Synthesis route found!
+06-16 08:13 root         INFO     Final search status | success value | iter: 1.1181622598381813 | 1.0001209127936557 | 4
+06-16 08:13 root         INFO     Final search status | success value | iter: 9.615526472329906 | inf | 100
+06-16 08:13 root         INFO     Synthesis path for COCCCc1cc(CN(C(=O)[C@H]2CN(C(=O)OC(C)(C)C)CC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)cc(OCC2(CC(=O)O)CC2)c1 not found. Please try increasing the number of iterations.
+06-16 08:14 root         INFO     Final search status | success value | iter: 8.20037948732671 | inf | 100
+06-16 08:14 root         INFO     Synthesis path for COC[C@H](C)COCc1ccc([C@@]2(O)CCN(C(=O)OC(C)(C)C)C[C@@H]2c2noc(-c3ccccc3CCNC(C)=O)c2Br)cc1 not found. Please try increasing the number of iterations.
+06-16 08:14 root         INFO     Synthesis route found!
+06-16 08:14 root         INFO     Final search status | success value | iter: 0.6804606415933881 | 0.1586889340738385 | 3
+06-16 08:14 root         INFO     Final search status | success value | iter: 7.179466923840557 | inf | 100
+06-16 08:14 root         INFO     Synthesis path for O=C(Nc1cccc(Cl)c1)N1CCc2[nH]nc(C(=O)N3CC(F)CO3)c2C1 not found. Please try increasing the number of iterations.
+06-16 08:14 root         INFO     Final search status | success value | iter: 7.604244849162417 | inf | 100
+06-16 08:14 root         INFO     Synthesis path for C[C@@H](O)C[C@H]1OC[C@@H](C2CCCCC2)N(c2cc(C#CC(C)(C)C)sc2C(=O)O)C1=O not found. Please try increasing the number of iterations.
+06-16 08:15 root         INFO     Synthesis route found!
+06-16 08:15 root         INFO     Final search status | success value | iter: 1.614847623486086 | 0.14932328953568705 | 7
+06-16 08:15 root         INFO     Synthesis route found!
+06-16 08:15 root         INFO     Final search status | success value | iter: 5.517685118147832 | 10.941443783319636 | 62
+06-16 08:15 root         INFO     Synthesis route found!
+06-16 08:15 root         INFO     Final search status | success value | iter: 8.516441526452393 | 6.532383008070635 | 52
+06-16 08:16 root         INFO     Final search status | success value | iter: 7.230815481771542 | inf | 100
+06-16 08:16 root         INFO     Synthesis path for N#Cc1cc(F)cc([C@H]2C[C@H](F)CN2c2ccn3ncc(C(N)=O)c3c2)c1 not found. Please try increasing the number of iterations.
+06-16 08:16 root         INFO     Synthesis route found!
+06-16 08:16 root         INFO     Final search status | success value | iter: 6.716696872493955 | 11.681508064229536 | 21
+06-16 08:16 root         INFO     Final search status | success value | iter: 6.448153476418394 | inf | 100
+06-16 08:16 root         INFO     Synthesis path for CC(=O)Nc1nc2c(s1)-c1c(c(C3CC3)nn1C1CCN(C(=O)N3CCN(C(C)C)CC3)CC1)CC2 not found. Please try increasing the number of iterations.
+06-16 08:16 root         INFO     Synthesis route found!
+06-16 08:16 root         INFO     Final search status | success value | iter: 5.246279329904801 | 5.610577737294315 | 62
+06-16 08:17 root         INFO     Final search status | success value | iter: 8.435663170124833 | inf | 100
+06-16 08:17 root         INFO     Synthesis path for COc1cc2c(=O)[nH]c(=O)n([C@@H]3O[C@H](CO)[C@H]4OC(C)(C)O[C@H]43)c2cc1OC not found. Please try increasing the number of iterations.
+06-16 08:17 root         INFO     Synthesis route found!
+06-16 08:17 root         INFO     Final search status | success value | iter: 7.404582013071988 | 7.493110168675186 | 14
+06-16 08:17 root         INFO     Final search status | success value | iter: 8.835249918196446 | inf | 100
+06-16 08:17 root         INFO     Synthesis path for CC(C)(C)OC(=O)N[C@@H]1c2cccnc2C(=O)CC[C@H]1c1cccc(F)c1F not found. Please try increasing the number of iterations.
+06-16 08:18 root         INFO     Final search status | success value | iter: 8.916545776031734 | inf | 100
+06-16 08:18 root         INFO     Synthesis path for CC(C)S(=O)(=O)N[C@H]1CCOC[C@H]1c1ccc(-c2ccc(C#N)s2)cc1 not found. Please try increasing the number of iterations.
+06-16 08:18 root         INFO     Synthesis route found!
+06-16 08:18 root         INFO     Final search status | success value | iter: 6.147355112688912 | 6.793249982868206 | 63
+06-16 08:19 root         INFO     Final search status | success value | iter: 8.07444047750857 | inf | 100
+06-16 08:19 root         INFO     Synthesis path for COCCCc1cc(CN(C(=O)[C@H]2CN(C(=O)OC(C)(C)C)CC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)cc(OCCOC)c1 not found. Please try increasing the number of iterations.
+06-16 08:19 root         INFO     Synthesis route found!
+06-16 08:19 root         INFO     Final search status | success value | iter: 3.806964512976382 | 3.035671672469385 | 12
+06-16 08:19 root         INFO     Synthesis route found!
+06-16 08:19 root         INFO     Final search status | success value | iter: 0.3187753894691218 | 0.055237813132349455 | 2
+06-16 08:19 root         INFO     Final search status | success value | iter: 9.49934587347746 | inf | 100
+06-16 08:19 root         INFO     Synthesis path for COCCCc1cc(CN(C(=O)[C@H]2CNCC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)cc(OCC(C)(C)O)c1 not found. Please try increasing the number of iterations.
+06-16 08:19 root         INFO     Synthesis route found!
+06-16 08:19 root         INFO     Final search status | success value | iter: 6.9156055450692016 | 11.880416736804781 | 14
+06-16 08:20 root         INFO     Final search status | success value | iter: 7.1752159021506365 | inf | 100
+06-16 08:20 root         INFO     Synthesis path for COC[C@H](C)COCc1ccc([C@@]2(O)CCN(C(=O)OC(C)(C)C)C[C@@H]2C=NO)cc1 not found. Please try increasing the number of iterations.
+06-16 08:20 root         INFO     Final search status | success value | iter: 12.710716389703634 | inf | 100
+06-16 08:20 root         INFO     Synthesis path for CN1CC[C@@H](c2c(O)cc(O)c3c(=O)cc(-c4ccc(C(F)(F)F)cc4)oc23)[C@@H]1CO not found. Please try increasing the number of iterations.
+06-16 08:21 root         INFO     Final search status | success value | iter: 6.755602493582334 | inf | 100
+06-16 08:21 root         INFO     Synthesis path for C[C@H](c1ccccc1)N1C[C@]2(C(=O)OC(C)(C)C)C=CC[C@@H]2C1=O not found. Please try increasing the number of iterations.
+06-16 08:21 root         INFO     Expansion fails on Cn1oc(=O)nc1SSc1nc(=O)on1C!
+06-16 08:21 root         INFO     Expansion fails on Cn1oc(=O)nc1S(=O)[O-]!
+06-16 08:21 root         INFO     Expansion fails on Cn1oc(=O)nc1SC#N!
+06-16 08:21 root         INFO     Expansion fails on Cn1oc(=O)nc1SC(=O)Cl!
+06-16 08:21 root         INFO     Final search status | success value | iter: 6.604143782303826 | inf | 100
+06-16 08:21 root         INFO     Synthesis path for Cn1oc(=O)nc1/C(=N\OCc1cccc(NC(=O)OCCc2ccccc2)n1)c1ccccc1 not found. Please try increasing the number of iterations.
+06-16 08:21 root         INFO     Final search status | success value | iter: 9.589247755618004 | inf | 100
+06-16 08:21 root         INFO     Synthesis path for COc1ccccc1C[C@H](C[C@H](O[Si](C)(C)C(C)(C)C)[C@H](Cc1ccccc1)NC(=O)OC(C)(C)C)C(=O)O not found. Please try increasing the number of iterations.
+06-16 08:22 root         INFO     Final search status | success value | iter: 5.997660307370264 | inf | 100
+06-16 08:22 root         INFO     Synthesis path for CCC[C@@H](CCO)Nc1nc(N)nc(C)c1Cc1ccc(CN2CCC[C@@H]2C(=O)O)cc1OC not found. Please try increasing the number of iterations.
+06-16 08:22 root         INFO     Synthesis route found!
+06-16 08:22 root         INFO     Final search status | success value | iter: 1.502588488114073 | 1.3985573853387208 | 9
+06-16 08:22 root         INFO     Final search status | success value | iter: 5.680042727691353 | inf | 100
+06-16 08:22 root         INFO     Synthesis path for O=C(Nc1ccc(-c2cnc(C34CC5CC(CC(C(=O)O)(C5)C3)C4)s2)cc1)Nc1ccccc1F not found. Please try increasing the number of iterations.
+06-16 08:22 root         INFO     Synthesis route found!
+06-16 08:22 root         INFO     Final search status | success value | iter: 0.9104225063433338 | 5.0009923746902905 | 3
+06-16 08:22 root         INFO     Synthesis route found!
+06-16 08:22 root         INFO     Final search status | success value | iter: 5.517697105852243 | 10.941455771024046 | 63
+06-16 08:23 root         INFO     Synthesis route found!
+06-16 08:23 root         INFO     Final search status | success value | iter: 7.341991596855138 | 6.908811579324158 | 8
+06-16 08:23 root         INFO     Synthesis route found!
+06-16 08:23 root         INFO     Final search status | success value | iter: 7.6638546196894595 | 6.533862212738204 | 73
+06-16 08:23 root         INFO     Final search status | success value | iter: 8.139340303379413 | inf | 100
+06-16 08:23 root         INFO     Synthesis path for C[C@@H](n1ncn(-c2ccc(Cl)cc2)c1=O)[C@@]1(c2ccc(F)cc2F)CO1 not found. Please try increasing the number of iterations.
+06-16 08:23 root         INFO     Expansion fails on C[Mg]Br!
+06-16 08:23 root         INFO     Synthesis route found!
+06-16 08:23 root         INFO     Final search status | success value | iter: 8.482054153973435 | 7.612764190852932 | 15
+06-16 08:23 root         INFO     Synthesis route found!
+06-16 08:23 root         INFO     Final search status | success value | iter: 1.7561809136051851 | 0.2906565796547862 | 8
+06-16 08:24 root         INFO     Synthesis route found!
+06-16 08:24 root         INFO     Final search status | success value | iter: 5.947781047934905 | 12.681280285271038 | 46
+06-16 08:24 root         INFO     Final search status | success value | iter: 9.477667998809967 | inf | 100
+06-16 08:24 root         INFO     Synthesis path for COCCCc1cc(O)cc(CN(C(=O)[C@H]2CN(C(=O)OC(C)(C)C)CC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)c1 not found. Please try increasing the number of iterations.
+06-16 08:24 root         INFO     Synthesis route found!
+06-16 08:24 root         INFO     Final search status | success value | iter: 5.883447175024659 | 5.5589764704362326 | 23
+06-16 08:25 root         INFO     Final search status | success value | iter: 8.967897617098272 | inf | 100
+06-16 08:25 root         INFO     Synthesis path for COCCCc1cc(CN(C(=O)[C@H]2CN(C(=O)OC(C)(C)C)CC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)cc(OC[C@@H]2C[C@H]2C(=O)OCC(=O)N(C)C)c1 not found. Please try increasing the number of iterations.
+06-16 08:25 root         INFO     Final search status | success value | iter: 7.82273019813056 | inf | 100
+06-16 08:25 root         INFO     Synthesis path for CC(=O)NC[C@H]1CN(c2ccc3c(c2)CCCc2c(C(C)C)n[nH]c2-3)C(=O)O1 not found. Please try increasing the number of iterations.
+06-16 08:26 root         INFO     Final search status | success value | iter: 7.724595996762815 | inf | 100
+06-16 08:26 root         INFO     Synthesis path for COC[C@H](C)COCc1ccc([C@@]2(O)CCN(C(=O)OC(C)(C)C)C[C@@H]2CO)cc1 not found. Please try increasing the number of iterations.
+06-16 08:26 root         INFO     Synthesis route found!
+06-16 08:26 root         INFO     Final search status | success value | iter: 7.024698727764104 | 6.908198974483414 | 36
+06-16 08:26 root         INFO     Synthesis route found!
+06-16 08:26 root         INFO     Final search status | success value | iter: 8.008391331892234 | 6.667391774603493 | 26
+06-16 08:26 root         INFO     Final search status | success value | iter: 7.655210267375477 | inf | 100
+06-16 08:26 root         INFO     Synthesis path for C/C=C/c1c(N)nc(-c2ccc(Cl)c(OC)c2F)nc1C(=O)OC not found. Please try increasing the number of iterations.
+06-16 08:27 root         INFO     Final search status | success value | iter: 9.452300790450867 | inf | 100
+06-16 08:27 root         INFO     Synthesis path for COCCCc1cc(CN(C(=O)[C@H]2CN(C(=O)OC(C)(C)C)CC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)cc(OCc2ccc(-c3nnn[nH]3)cc2)c1 not found. Please try increasing the number of iterations.
+06-16 08:27 root         INFO     Final search status | success value | iter: 6.308479144848962 | inf | 100
+06-16 08:27 root         INFO     Synthesis path for CC[C@@H](OC(=O)c1ccccc1)[C@H]1CCCN(C(=O)OC(C)(C)C)C1 not found. Please try increasing the number of iterations.
+06-16 08:28 root         INFO     Synthesis route found!
+06-16 08:28 root         INFO     Final search status | success value | iter: 7.207393013872121 | 12.036428830040188 | 73
+06-16 08:28 root         INFO     Synthesis route found!
+06-16 08:28 root         INFO     Final search status | success value | iter: 6.751488281306488 | 8.164484682097475 | 35
+06-16 08:28 root         INFO     Synthesis route found!
+06-16 08:28 root         INFO     Final search status | success value | iter: 8.973510816482806 | 8.614258537627784 | 36
+06-16 08:28 root         INFO     Expansion fails on C=C1CC2(CC[C@]1(C)[C@H]1CC[C@@]3(C)[C@@H](CC[C@@H]3N(C=O)C3CC3)[C@@H]1CC#C[Si](C)(C)C)OCCO2!
+06-16 08:28 root         INFO     Final search status | success value | iter: 11.085048438943362 | inf | 100
+06-16 08:28 root         INFO     Synthesis path for CN(C1CC1)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@@]21C not found. Please try increasing the number of iterations.
+06-16 08:29 root         INFO     Final search status | success value | iter: 6.022954398745265 | inf | 100
+06-16 08:29 root         INFO     Synthesis path for Nc1ncnc2c1c(-c1ccc3ccc(-c4ccccc4)nc3c1)cn2C1CCC1 not found. Please try increasing the number of iterations.
+06-16 08:29 root         INFO     Synthesis route found!
+06-16 08:29 root         INFO     Final search status | success value | iter: 6.241738328388901 | 12.975237565725033 | 34
+06-16 08:29 root         INFO     Synthesis route found!
+06-16 08:29 root         INFO     Final search status | success value | iter: 0.49645827003285464 | 0.1792704585053282 | 2
+06-16 08:29 root         INFO     Synthesis route found!
+06-16 08:29 root         INFO     Final search status | success value | iter: 2.482622834302076 | 4.181743103764236 | 3
+06-16 08:29 root         INFO     Final search status | success value | iter: 7.879200775962233 | inf | 100
+06-16 08:29 root         INFO     Synthesis path for COC[C@H](C)COCc1ccc([C@@]2(O)CCN(C(=O)OC(C)(C)C)C[C@@H]2C=O)cc1 not found. Please try increasing the number of iterations.
+06-16 08:30 root         INFO     Final search status | success value | iter: 6.765835668154563 | inf | 100
+06-16 08:30 root         INFO     Synthesis path for O=S(=O)(C#Cc1ccc(Cl)cc1)N1CCNCC1 not found. Please try increasing the number of iterations.
+06-16 08:30 root         INFO     Final search status | success value | iter: 13.331853663380215 | inf | 100
+06-16 08:30 root         INFO     Synthesis path for OC[C@H]1O[C@](O)(c2ccc(Cl)c(Cc3ccc(C#Cc4cnccn4)cc3)c2)[C@H](O)[C@@H](O)[C@@H]1O not found. Please try increasing the number of iterations.
+06-16 08:31 root         INFO     Final search status | success value | iter: 7.174514201304167 | inf | 100
+06-16 08:31 root         INFO     Synthesis path for O[C@H]1C[C@H](c2cnn3c(N[C@H]4CCc5ccccc54)ncnc23)C=C1COCc1ccccc1 not found. Please try increasing the number of iterations.
+06-16 08:31 root         INFO     Final search status | success value | iter: 7.901595160060147 | inf | 100
+06-16 08:31 root         INFO     Synthesis path for C[C@@H](n1ccn(-c2ccc(Cl)cc2)c1=O)[C@@]1(c2ccc(F)cc2F)CO1 not found. Please try increasing the number of iterations.
+06-16 08:31 root         INFO     Synthesis route found!
+06-16 08:31 root         INFO     Final search status | success value | iter: 6.145624522717364 | 10.153770515609384 | 69
+06-16 08:31 root         INFO     Synthesis route found!
+06-16 08:31 root         INFO     Final search status | success value | iter: 8.50715874893927 | 13.720678507445019 | 31
+06-16 08:32 root         INFO     Synthesis route found!
+06-16 08:32 root         INFO     Final search status | success value | iter: 7.146763405776866 | 12.55410597158198 | 40
+06-16 08:32 root         INFO     Final search status | success value | iter: 9.421607846240775 | inf | 100
+06-16 08:32 root         INFO     Synthesis path for CCOP(=O)(Cc1ccc(Nc2ncc(C(F)(F)F)c(Nc3ccc([C@H]4CC[C@H](N5CCN(C)CC5)CC4)c4c3C(=O)N(C)C4)n2)c(OC)c1)OCC not found. Please try increasing the number of iterations.
+06-16 08:32 root         INFO     Expansion fails on CC1=CC=CC(C)(C(F)(F)F)C1!
+06-16 08:32 root         INFO     Synthesis route found!
+06-16 08:32 root         INFO     Final search status | success value | iter: 2.5839559747369525 | 0.7425033904760592 | 9
+06-16 08:32 root         INFO     Final search status | success value | iter: 8.22066023293874 | inf | 100
+06-16 08:32 root         INFO     Synthesis path for CC(C)(C)OC(=O)N[C@@H]1c2cccnc2[C@H](O)CC[C@H]1c1cccc(F)c1F not found. Please try increasing the number of iterations.
+06-16 08:33 root         INFO     Final search status | success value | iter: 9.281057630874992 | inf | 100
+06-16 08:33 root         INFO     Synthesis path for C[C@H](O[Si](C)(C)C(C)(C)C)[C@@H]1CC(=O)CC(C)(C)N1 not found. Please try increasing the number of iterations.
+06-16 08:33 root         INFO     Synthesis route found!
+06-16 08:33 root         INFO     Final search status | success value | iter: 1.3206816698031847 | 0.9619504796712525 | 6
+06-16 08:33 root         INFO     Synthesis route found!
+06-16 08:33 root         INFO     Final search status | success value | iter: 1.519482318340613 | 1.9179717155697191 | 4
+06-16 08:33 root         INFO     Synthesis route found!
+06-16 08:33 root         INFO     Final search status | success value | iter: 0.4688099097589181 | 0.10300115015226774 | 4
+06-16 08:33 root         INFO     Final search status | success value | iter: 6.647904119587137 | inf | 100
+06-16 08:33 root         INFO     Synthesis path for COC[C@H](C)COCc1ccc([C@@]2(O)CCNC[C@@H]2c2noc(-c3ccccc3CCNC(C)=O)c2Br)cc1 not found. Please try increasing the number of iterations.
+06-16 08:33 root         INFO     Synthesis route found!
+06-16 08:33 root         INFO     Final search status | success value | iter: 6.616972201740326 | 8.029968602531312 | 26
+06-16 08:34 root         INFO     Final search status | success value | iter: 7.585125443634897 | inf | 100
+06-16 08:34 root         INFO     Synthesis path for COC(=O)C(C)(C)CC(CCCCO)CCCc1cccnc1 not found. Please try increasing the number of iterations.
+06-16 08:34 root         INFO     Final search status | success value | iter: 7.705846830350925 | inf | 100
+06-16 08:34 root         INFO     Synthesis path for CCCCCCC(C)(C)c1ccc([C@H]2C[C@@H](O)CCN2C=O)c(OCc2ccccc2)c1 not found. Please try increasing the number of iterations.
+06-16 08:35 root         INFO     Synthesis route found!
+06-16 08:35 root         INFO     Final search status | success value | iter: 6.095167856659573 | 12.613828961733475 | 40
+06-16 08:35 root         INFO     Final search status | success value | iter: 8.395362638868306 | inf | 100
+06-16 08:35 root         INFO     Synthesis path for CC1(C)OCC(C)(CO)N(Cc2ccccc2)C1=O not found. Please try increasing the number of iterations.
+06-16 08:35 root         INFO     Final search status | success value | iter: 6.361089269974493 | inf | 100
+06-16 08:35 root         INFO     Synthesis path for COC(=O)CC12CCC(c3ccc(-c4ccc(NC(=O)c5nc(C)oc5C(F)(F)F)cc4)cc3)(CC1)CO2 not found. Please try increasing the number of iterations.
+06-16 08:36 root         INFO     Final search status | success value | iter: 9.705524744075152 | inf | 100
+06-16 08:36 root         INFO     Synthesis path for COCCCc1cc(CN(C(=O)[C@H]2CN(C(=O)OC(C)(C)C)CC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)cc(OCCC(C)(C)C(=O)OC)c1 not found. Please try increasing the number of iterations.
+06-16 08:36 root         INFO     Final search status | success value | iter: 7.991587129048061 | inf | 100
+06-16 08:36 root         INFO     Synthesis path for COc1ccc(C[C@H](C[C@H](O[Si](C)(C)C(C)(C)C)[C@H](CC2CCCCC2)NC(=O)OC(C)(C)C)C(=O)O)c(OC)c1OC not found. Please try increasing the number of iterations.
+06-16 08:37 root         INFO     Final search status | success value | iter: 9.576439785728715 | inf | 100
+06-16 08:37 root         INFO     Synthesis path for CC(=O)N1c2ccc(N3CCNCC3)cc2[C@H](Nc2ccccc2)[C@@H](C)[C@@H]1C not found. Please try increasing the number of iterations.
+06-16 08:37 root         INFO     Final search status | success value | iter: 8.214435630806344 | inf | 100
+06-16 08:37 root         INFO     Synthesis path for CC1(C)OCC(C)(C=O)N(Cc2ccccc2)C1=O not found. Please try increasing the number of iterations.
+06-16 08:37 root         INFO     Synthesis route found!
+06-16 08:37 root         INFO     Final search status | success value | iter: 5.657561064892147 | 9.602764864159955 | 29
+06-16 08:38 root         INFO     Synthesis route found!
+06-16 08:38 root         INFO     Final search status | success value | iter: 6.810352140713622 | 8.671361324645002 | 28
+06-16 08:38 root         INFO     Synthesis route found!
+06-16 08:38 root         INFO     Final search status | success value | iter: 1.1349778981633343 | 0.7762467080314019 | 6
+06-16 08:38 root         INFO     Synthesis route found!
+06-16 08:38 root         INFO     Final search status | success value | iter: 5.2122095276938065 | 4.9207094390789115 | 11
+06-16 08:38 root         INFO     Synthesis route found!
+06-16 08:38 root         INFO     Final search status | success value | iter: 7.018626917567978 | 5.880620896734979 | 26
+06-16 08:38 root         INFO     Final search status | success value | iter: 8.151069782120652 | inf | 100
+06-16 08:38 root         INFO     Synthesis path for CC1(C)OCC(C)(CO[Si](C)(C)C(C)(C)C)N(Cc2ccccc2)C1=O not found. Please try increasing the number of iterations.
+06-16 08:38 root         INFO     Synthesis route found!
+06-16 08:38 root         INFO     Final search status | success value | iter: 2.5934333426338547 | 1.8221405021268575 | 7
+06-16 08:38 root         INFO     Synthesis route found!
+06-16 08:38 root         INFO     Final search status | success value | iter: 6.454021888028038 | 7.099916758207332 | 73
+06-16 08:38 root         INFO     Synthesis route found!
+06-16 08:38 root         INFO     Final search status | success value | iter: 0.5399259986983308 | 0.31174718425661063 | 7
+06-16 08:39 root         INFO     Final search status | success value | iter: 11.91818889942834 | inf | 100
+06-16 08:39 root         INFO     Synthesis path for O=C(O)[C@H]1CCOC[C@H]1c1ccc(I)cc1 not found. Please try increasing the number of iterations.
+06-16 08:39 root         INFO     Final search status | success value | iter: 6.773611412793077 | inf | 100
+06-16 08:39 root         INFO     Synthesis path for CC(C)(C)OC(=O)[C@@]12C=CC[C@@H]1CN(C(=O)OCc1ccccc1)C2 not found. Please try increasing the number of iterations.
+06-16 08:39 root         INFO     Expansion fails on Cn1oc(=O)nc1SSc1nc(=O)on1C!
+06-16 08:39 root         INFO     Expansion fails on Cn1oc(=O)nc1S(=O)[O-]!
+06-16 08:39 root         INFO     Expansion fails on Cn1oc(=O)nc1SC#N!
+06-16 08:39 root         INFO     Expansion fails on Cn1oc(=O)nc1SC(=O)Cl!
+06-16 08:40 root         INFO     Final search status | success value | iter: 6.551617884017978 | inf | 100
+06-16 08:40 root         INFO     Synthesis path for Cn1oc(=O)nc1/C(=N\OCc1cccc(N)n1)c1ccccc1 not found. Please try increasing the number of iterations.
+06-16 08:40 root         INFO     Synthesis route found!
+06-16 08:40 root         INFO     Final search status | success value | iter: 7.7765334414507015 | 7.254170451521286 | 21
+06-16 08:40 root         INFO     Final search status | success value | iter: 9.306505171673276 | inf | 100
+06-16 08:40 root         INFO     Synthesis path for COCCCc1cc(CN(C(=O)[C@H]2CN(C(=O)OC(C)(C)C)CC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)cc(OCCC(C)(C)C(=O)O)c1 not found. Please try increasing the number of iterations.
+06-16 08:40 root         INFO     Synthesis route found!
+06-16 08:40 root         INFO     Final search status | success value | iter: 8.897081250661248 | 7.5560816933725095 | 37
+06-16 08:40 root         INFO     Synthesis route found!
+06-16 08:40 root         INFO     Final search status | success value | iter: 0.8509128318788127 | 7.666692652894621 | 6
+06-16 08:41 root         INFO     Synthesis route found!
+06-16 08:41 root         INFO     Final search status | success value | iter: 5.878288142184001 | 5.779991699593968 | 19
+06-16 08:41 root         INFO     Synthesis route found!
+06-16 08:41 root         INFO     Final search status | success value | iter: 7.146637472507635 | 12.553980038312748 | 40
+06-16 08:41 root         INFO     Final search status | success value | iter: 8.992977858538275 | inf | 100
+06-16 08:41 root         INFO     Synthesis path for COCCCc1cc(CN(C(=O)[C@H]2CN(C(=O)OC(C)(C)C)CC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)cc(OCC2(CC#N)CC2)c1 not found. Please try increasing the number of iterations.
+06-16 08:42 root         INFO     Synthesis route found!
+06-16 08:42 root         INFO     Final search status | success value | iter: 5.964028695470901 | 12.697527932807034 | 48
+06-16 08:42 root         INFO     Final search status | success value | iter: 6.779308302867119 | inf | 100
+06-16 08:42 root         INFO     Synthesis path for C=CC[C@@H]1C(=O)N([C@H](C)c2ccccc2)C[C@@]1(C=C)C(=O)OC(C)(C)C not found. Please try increasing the number of iterations.
+06-16 08:43 root         INFO     Final search status | success value | iter: 10.889311087579703 | inf | 100
+06-16 08:43 root         INFO     Synthesis path for COCCCc1cc(CN(C(=O)[C@H]2CN(C(=O)OC(C)(C)C)CC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)cc(OC[C@@H]2C[C@H]2C(=O)Oc2ccc3c(c2)CCC3)c1 not found. Please try increasing the number of iterations.
+06-16 08:43 root         INFO     Synthesis route found!
+06-16 08:43 root         INFO     Final search status | success value | iter: 4.030035467478086 | 3.8093253309027446 | 14
+06-16 08:43 root         INFO     Synthesis route found!
+06-16 08:43 root         INFO     Final search status | success value | iter: 1.5774199947882093 | 1.2186888046562774 | 6
+06-16 08:43 root         INFO     Synthesis route found!
+06-16 08:43 root         INFO     Final search status | success value | iter: 7.249777159139882 | 9.463559527853368 | 92
+06-16 08:43 root         INFO     Final search status | success value | iter: 7.245279519665004 | inf | 100
+06-16 08:43 root         INFO     Synthesis path for NS(=O)(=O)OC[C@H]1C[C@@H](c2cnn3c(N[C@H]4CCc5ccccc54)ncnc23)C[C@@H]1O not found. Please try increasing the number of iterations.
+06-16 08:44 root         INFO     Final search status | success value | iter: 8.844588967840311 | inf | 100
+06-16 08:44 root         INFO     Synthesis path for CC(C)S(=O)(=O)N[C@H]1CCOC[C@H]1c1ccc(I)cc1 not found. Please try increasing the number of iterations.
+06-16 08:44 root         INFO     Synthesis route found!
+06-16 08:44 root         INFO     Final search status | success value | iter: 5.646291816402169 | 5.460922654952345 | 100
+06-16 08:44 root         INFO     Synthesis route found!
+06-16 08:44 root         INFO     Final search status | success value | iter: 1.615024925827339 | 0.1495005918769399 | 8
+06-16 08:44 root         INFO     Final search status | success value | iter: 9.240387508769064 | inf | 100
+06-16 08:44 root         INFO     Synthesis path for C[C@H](O[Si](C)(C)C(C)(C)C)[C@@H]1CC(O)CC(C)(C)N1 not found. Please try increasing the number of iterations.
+06-16 08:45 root         INFO     Synthesis route found!
+06-16 08:45 root         INFO     Final search status | success value | iter: 7.050054993441253 | 7.0076349598080805 | 45
+06-16 08:45 root         INFO     Synthesis route found!
+06-16 08:45 root         INFO     Final search status | success value | iter: 10.19827403966329 | 11.675770872816113 | 2
+06-16 08:45 root         INFO     Synthesis route found!
+06-16 08:45 root         INFO     Final search status | success value | iter: 6.834087030446318 | 13.597697610450982 | 11
+06-16 08:45 root         INFO     Synthesis route found!
+06-16 08:45 root         INFO     Final search status | success value | iter: 2.4822843986696164 | 4.181404668131776 | 2
+06-16 08:45 root         INFO     Final search status | success value | iter: 10.167537932081318 | inf | 100
+06-16 08:45 root         INFO     Synthesis path for COCCCc1cc(CN(C(=O)[C@H]2CN(C(=O)OC(C)(C)C)CC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)cc(OC[C@@H]2C[C@H]2CO)c1 not found. Please try increasing the number of iterations.
+06-16 08:45 root         INFO     Synthesis route found!
+06-16 08:45 root         INFO     Final search status | success value | iter: 8.518354858309104 | 8.606883013912302 | 21
+06-16 08:46 root         INFO     Final search status | success value | iter: 6.436720049128873 | inf | 100
+06-16 08:46 root         INFO     Synthesis path for COC(=O)CCc1cc2cc(-c3noc(-c4ccc(OC(C)C)c(Cl)c4)n3)ccc2n1C not found. Please try increasing the number of iterations.
+06-16 08:46 root         INFO     Synthesis route found!
+06-16 08:46 root         INFO     Final search status | success value | iter: 0.31896901676297057 | 0.055431440426198256 | 3
+06-16 08:46 root         INFO     Final search status | success value | iter: 9.235501753730768 | inf | 100
+06-16 08:46 root         INFO     Synthesis path for C[C@@]1(O)[C@H](O)[C@@H](CO)O[C@H]1n1ccc2c(N)nc(N)nc21 not found. Please try increasing the number of iterations.
+06-16 08:46 root         INFO     Synthesis route found!
+06-16 08:46 root         INFO     Final search status | success value | iter: 0.2804569985910092 | 0.12211709662585948 | 4
+06-16 08:46 root         INFO     Synthesis route found!
+06-16 08:46 root         INFO     Final search status | success value | iter: 7.065031512778356 | 6.961000410003004 | 9
+06-16 08:46 root         INFO     Synthesis route found!
+06-16 08:46 root         INFO     Final search status | success value | iter: 1.614615752090619 | 0.14909141814021992 | 6
+06-16 08:47 root         INFO     Final search status | success value | iter: 7.641488880186134 | inf | 100
+06-16 08:47 root         INFO     Synthesis path for CC(C)(C)OC(=O)N[C@@H]1c2cccnc2[C@H](N2C(=O)c3ccccc3C2=O)CC[C@H]1c1cccc(F)c1F not found. Please try increasing the number of iterations.
+06-16 08:47 root         INFO     Synthesis route found!
+06-16 08:47 root         INFO     Final search status | success value | iter: 0.36117959601491967 | 0.002448405882987582 | 5
+06-16 08:47 root         INFO     Final search status | success value | iter: 9.849833719648803 | inf | 100
+06-16 08:47 root         INFO     Synthesis path for COCCCc1cc(CN(C(=O)[C@H]2CN(C(=O)OC(C)(C)C)CC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)cc(OCCCC#N)c1 not found. Please try increasing the number of iterations.
+06-16 08:48 root         INFO     Final search status | success value | iter: 9.4019892025469 | inf | 100
+06-16 08:48 root         INFO     Synthesis path for CCOC(=O)[C@@H]1C[C@H]1COc1cc(CCCOC)cc(CN(C(=O)[C@H]2CN(C(=O)OC(C)(C)C)CC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)c1 not found. Please try increasing the number of iterations.
+06-16 08:48 root         INFO     Synthesis route found!
+06-16 08:48 root         INFO     Final search status | success value | iter: 1.6167001608106244 | 0.15117582686022546 | 8
+06-16 08:48 root         INFO     Final search status | success value | iter: 7.931910170023045 | inf | 100
+06-16 08:48 root         INFO     Synthesis path for CCOC(=O)[C@@H]1C[C@H]1COc1cc(CCCOC)cc(CN(C(=O)[C@H]2CNCC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)c1 not found. Please try increasing the number of iterations.
+06-16 08:48 root         INFO     Synthesis route found!
+06-16 08:48 root         INFO     Final search status | success value | iter: 1.9790105317457243 | 1.8609691847011989 | 4
+06-16 08:49 root         INFO     Synthesis route found!
+06-16 08:49 root         INFO     Final search status | success value | iter: 5.212143653669188 | 4.920643565054293 | 9
+06-16 08:49 root         INFO     Synthesis route found!
+06-16 08:49 root         INFO     Final search status | success value | iter: 1.8832089222728303 | 0.9929883715545312 | 6
+06-16 08:49 root         INFO     Final search status | success value | iter: 6.726794225740871 | inf | 100
+06-16 08:49 root         INFO     Synthesis path for O=C(NC[C@@H]1CC[C@@H](COc2ccccc2)OC1)c1ccc(O)cc1 not found. Please try increasing the number of iterations.
+06-16 08:50 root         INFO     Final search status | success value | iter: 9.471154476158972 | inf | 100
+06-16 08:50 root         INFO     Synthesis path for COCCCc1cc(CN(C(=O)[C@H]2CN(C(=O)OC(C)(C)C)CC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)cc(OS(=O)(=O)C(F)(F)F)c1 not found. Please try increasing the number of iterations.
+06-16 08:50 root         INFO     Final search status | success value | iter: 8.65237988297677 | inf | 100
+06-16 08:50 root         INFO     Synthesis path for CCOC(=O)/C=C1\CC[C@@H](c2cccc(F)c2F)[C@H](NC(=O)OC(C)(C)C)c2cccnc21 not found. Please try increasing the number of iterations.
+06-16 08:50 root         INFO     Final search status | success value | iter: 6.7844599425093 | inf | 100
+06-16 08:50 root         INFO     Synthesis path for C[C@H](c1ccccc1)N1C[C@H]2CC=C[C@@]2(C(=O)OC(C)(C)C)C1 not found. Please try increasing the number of iterations.
+06-16 08:51 root         INFO     Final search status | success value | iter: 9.761756440863008 | inf | 100
+06-16 08:51 root         INFO     Synthesis path for COCCCc1cc(CN(C(=O)[C@H]2CN(C(=O)OC(C)(C)C)CC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)cc(OC[C@@H]2C[C@H]2C(=O)O)c1 not found. Please try increasing the number of iterations.
+06-16 08:51 root         INFO     Synthesis route found!
+06-16 08:51 root         INFO     Final search status | success value | iter: 2.9636445298271963 | 2.859613427051843 | 9
+06-16 08:52 root         INFO     Final search status | success value | iter: 5.1488254995074865 | inf | 100
+06-16 08:52 root         INFO     Synthesis path for C=CCC1C=C(C)CC(C)CC(OC)C2OC(O)(C(=O)C(=O)N3CCCCC3C(=O)OC(C(C)=CC3CCC(O)C(OC)C3)C(C)C=CC1O)C(C)CC2OC not found. Please try increasing the number of iterations.
+06-16 08:53 root         INFO     Final search status | success value | iter: 7.070827413558564 | inf | 100
+06-16 08:53 root         INFO     Synthesis path for Cc1nnc(SCC2=C(C(=O)O)N3C(=O)C(NC(=O)C(O)c4csc(N)n4)[C@H]3SC2)s1 not found. Please try increasing the number of iterations.
+06-16 08:53 root         INFO     Final search status | success value | iter: 6.439287905887845 | inf | 100
+06-16 08:53 root         INFO     Synthesis path for CCOC(=O)CCc1cc2cc(-c3noc(-c4ccc(OC(C)C)c(Cl)c4)n3)ccc2[nH]1 not found. Please try increasing the number of iterations.
+06-16 08:53 root         INFO     Final search status | success value | iter: 6.554303686980933 | inf | 100
+06-16 08:53 root         INFO     Synthesis path for CCOC(=O)[C@H]1[C@H](c2ccc3c(c2)OC(F)(F)O3)C1(C)C not found. Please try increasing the number of iterations.
+06-16 08:53 root         INFO     Synthesis route found!
+06-16 08:53 root         INFO     Final search status | success value | iter: 6.103557104269862 | 5.779086399681436 | 20
+06-16 08:53 root         INFO     Synthesis route found!
+06-16 08:53 root         INFO     Final search status | success value | iter: 1.5194576376466642 | 1.9179470348757703 | 3
+06-16 08:53 root         INFO     Synthesis route found!
+06-16 08:53 root         INFO     Final search status | success value | iter: 0.4353447753460627 | 0.4080324000782444 | 2
+06-16 08:54 root         INFO     Final search status | success value | iter: 7.2143097886131216 | inf | 100
+06-16 08:54 root         INFO     Synthesis path for CC(C)c1ccc(OC2CCC3(CC2)N[C@@H](C(=O)O)C(C)(C)S3)cc1 not found. Please try increasing the number of iterations.
+06-16 08:54 root         INFO     Synthesis route found!
+06-16 08:54 root         INFO     Final search status | success value | iter: 0.39588046185404546 | 0.03714927172211339 | 6
+06-16 08:54 root         INFO     Synthesis route found!
+06-16 08:54 root         INFO     Final search status | success value | iter: 6.96342424396417 | 7.308991168320194 | 54
+06-16 08:54 root         INFO     Final search status | success value | iter: 7.10892686047576 | inf | 100
+06-16 08:54 root         INFO     Synthesis path for COCCCCC1(CNC(=O)C2CCCNC2)c2ccccc2Oc2ccccc21 not found. Please try increasing the number of iterations.
+06-16 08:55 root         INFO     Final search status | success value | iter: 9.756356833956488 | inf | 100
+06-16 08:55 root         INFO     Synthesis path for N[C@H]1CCOC[C@H]1c1ccc(I)cc1 not found. Please try increasing the number of iterations.
+06-16 08:55 root         INFO     Final search status | success value | iter: 8.429936650789998 | inf | 100
+06-16 08:55 root         INFO     Synthesis path for COCCCc1cc(CN(C(=O)[C@H]2CN(C(=O)OC(C)(C)C)CC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)cc(OCC2(CC(=O)OC)CC2)c1 not found. Please try increasing the number of iterations.
+06-16 08:56 root         INFO     Synthesis route found!
+06-16 08:56 root         INFO     Final search status | success value | iter: 8.189522713050179 | 14.502966695092466 | 80
+06-16 08:56 root         INFO     Synthesis route found!
+06-16 08:56 root         INFO     Final search status | success value | iter: 7.601547706930171 | 13.202161443477616 | 69
+06-16 08:56 root         INFO     Final search status | success value | iter: 8.842799851112659 | inf | 100
+06-16 08:56 root         INFO     Synthesis path for O=C(OCc1ccccc1)N1CC[C@H]2CCCNC[C@H]21 not found. Please try increasing the number of iterations.
+06-16 08:56 root         INFO     Synthesis route found!
+06-16 08:56 root         INFO     Final search status | success value | iter: 7.350249194539998 | 8.010487696249458 | 12
+06-16 08:57 root         INFO     Final search status | success value | iter: 8.56190480598059 | inf | 100
+06-16 08:57 root         INFO     Synthesis path for CC(C)(C)OC(=O)N[C@@H]1c2cccnc2[C@@H](O)CC[C@H]1c1cccc(F)c1F not found. Please try increasing the number of iterations.
+06-16 08:57 root         INFO     Synthesis route found!
+06-16 08:57 root         INFO     Final search status | success value | iter: 0.6853108447579367 | 0.16353913723838698 | 4
+06-16 08:57 root         INFO     Synthesis route found!
+06-16 08:57 root         INFO     Final search status | success value | iter: 8.288435167370697 | 9.380353640433006 | 35
+06-16 08:57 root         INFO     Synthesis route found!
+06-16 08:57 root         INFO     Final search status | success value | iter: 7.247677409102219 | 13.36846850999903 | 36
+06-16 08:57 root         INFO     Synthesis route found!
+06-16 08:57 root         INFO     Final search status | success value | iter: 4.670101072316035 | 5.271611609398609 | 9
+06-16 08:57 root         INFO     Final search status | success value | iter: 5.410246650428492 | inf | 100
+06-16 08:57 root         INFO     Synthesis path for CCC(C)(C)OC(=O)Nc1nc(C(O)C(=O)NC2C(=O)N3C(C(=O)O)=C(CSc4nnc(C)s4)CS[C@H]23)cs1 not found. Please try increasing the number of iterations.
+06-16 08:57 root         INFO     Synthesis route found!
+06-16 08:57 root         INFO     Final search status | success value | iter: 0.1465111122251697 | 0.006234653775451889 | 4
+06-16 08:58 root         INFO     Final search status | success value | iter: 7.2687059519088235 | inf | 100
+06-16 08:58 root         INFO     Synthesis path for OC[C@H]1C[C@@H](c2cnn3c(N[C@H]4CCc5ccccc54)ncnc23)C[C@@H]1O not found. Please try increasing the number of iterations.
+06-16 08:58 root         INFO     Synthesis route found!
+06-16 08:58 root         INFO     Final search status | success value | iter: 1.6171280276733286 | 0.15160369372292956 | 8
+06-16 08:58 root         INFO     Final search status | success value | iter: 9.203077592892722 | inf | 100
+06-16 08:58 root         INFO     Synthesis path for COCCCc1cc(CN(C(=O)[C@H]2CN(C(=O)OC(C)(C)C)CC[C@@H]2c2ccc(OCCOc3c(Cl)cc(C)cc3Cl)cc2)C2CC2)cc(OCC(C)(C)O)c1 not found. Please try increasing the number of iterations.
+06-16 08:59 root         INFO     Final search status | success value | iter: 8.072801933653764 | inf | 100
+06-16 08:59 root         INFO     Synthesis path for Oc1ccc2c(c1)[C@H](c1ccc(OCCN3CCCC3)cc1)[C@H](c1ccccc1)CO2 not found. Please try increasing the number of iterations.
